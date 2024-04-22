@@ -1,3 +1,7 @@
+# Extra files excluded
+*.txt
+*.zip
+
 # Prerequisites
 *.d
 
